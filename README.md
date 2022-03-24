@@ -17,4 +17,14 @@ Rentrons dans le dossier tout juste cloné:
 
 - Pour windows:
 
-    ***python optimized.py <nom-du-fichier> <limite> <nbre d'essais> *** 
+    ***python bruteforce.py <nom-du-fichier dans le dossier data> <limite>*** 
+       
+## Et lancer l'algorithme optimisé :
+
+- Pour Unix:
+
+    ***python3 bruteforce.py <nom-du-fichier dans le dossier data> <limite> <nbre d'essais> *** 
+
+- Pour windows:
+
+    ***python bruteforce.py <nom-du-fichier dans le dossier data> <limite> <nbre d'essais> *** 
